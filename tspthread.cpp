@@ -123,7 +123,7 @@ int main(int argc, const char* argv[]) {
         fname = string(argv[1]);
     }
     else {
-        // text document with
+        // change this line to the address of the "tsp.txt" file on your computer
         fname = "C:\\Users\\diono\\OneDrive\\Desktop\\cs\\traveling salesman\\tsp.txt";
     }
     ifstream ifs;
