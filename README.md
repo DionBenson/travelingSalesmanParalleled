@@ -4,7 +4,7 @@ Description:
 
 
 This is a school project where I was tasked to use parallel programming to find the most effiecient path between two cities given the distance of said cities, the starting position (0) and the end postion.
-This project was built on top of a sequential version of this solution that I was tasked with before this project. Parallel programming was implemented in order to calculate an answer within a quicker time frame. 
+This project was built on top of a sequential version (seqTSP.cpp) of this solution that I was tasked with before this project. Parallel programming was implemented in order to calculate an answer within a quicker time frame. 
 
 How To Use:
 
